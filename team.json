@@ -71,8 +71,18 @@
       "bg_color": "#FFB300",
       "thread": "https://forum.xda-developers.com/xperia-sp/development/rom-cosmic-os-v3-1-universe-t3742849",
       "telegram" : "https://t.me/CirnoHtK"
+    }.
+     {
+      "developerName": "joeking82",
+      "github": "http://www.github.com/joeking82",
+      "description": "Maintainer/Marlin",
+      "image": "https://raw.githubusercontent.com/Cosmic-OS/cosmic_members/master/joeking82.jpeg",
+      "bg_color": "#FFB300",
+      "thread": "https://androiddevelopers.proboards.com/thread/6/rom-r1-unofficial-cosmic-universe".
+      "telegram" : "https://t.me/joe_pacino"
+
     },
-    {
+     {
       "developerName": "Jackcicci",
       "github": "http://www.github.com/jackcicci",
       "description": "Maintainer / Titan",
@@ -98,7 +108,7 @@
       "bg_color": "#FFB300",
       "thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-cosmic-os-v3-1-universe-t3730716",
       "telegram" : "https://t.me/keertesh19"
-    },
+ 
     {
       "developerName": "Klozz Jesus",
       "github": "https://github.com/klozz",
